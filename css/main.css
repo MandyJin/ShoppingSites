@@ -21,6 +21,12 @@
     position: absolute;
     top: 20px;
 }
+#header p{
+    font-size: 20px;
+    position: absolute;
+    left: 410px;
+    top: 17px;
+}
 #inputSearch {
     border: 1px solid #BABEBF;
     color: #999999;
